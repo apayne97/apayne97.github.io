@@ -1,5 +1,5 @@
 ---
-title: 'Alexander Matthew Payne'
+title: Alexander Matthew Payne
 description: "My website"
 ---
 
@@ -8,67 +8,21 @@ description: "My website"
         <img src="/images/profile.jpg" alt="Headshot" style="max-width: 100%; height: auto; border-radius: 50%;">
     </div>
     <div style="flex: 2; min-width: 250px;">
-        <h2 style="font-size: 24px;"> Aspiring Drug Hunter</h2>
+        <h2 style="font-size: 24px;"> Hi! I'm Alex! </h2>
         <p style="font-size: 18px;">
-        I am a computational chemist with a deep background in biology and chemistry and a fascination with evolutionary biophysics who is interested in using models of protein-ligand interactions and protein dynamics to inform drug discovery.
+        I am currently a PhD candidate in the <a href="https://chembio.triiprograms.org/">Tri-Institutional PhD Program in Chemical Biology</a> at the <a href="https://www.mskcc.org/">Memorial Sloan-Kettering Cancer Center</a> in the lab of <a href="https://choderalab.org">John Chodera</a>.
         </p>
     </div>
 </div>
+<p style="text-align: justify;">
+I am a computational chemist with a deep background in biology and chemistry and a fascination with evolutionary biophysics who is interested in using models of protein-ligand interactions and protein dynamics to inform drug discovery. Through my work on antiviral drug discovery with the ASAP AViDD center, I have been learning how to critically assess a variety of computational chemistry approaches, including docking, structure-based machine-learning models, and free energy calculations. I am an inquisitive, enthusiastic team player excited to see others succeed. I am also passionate about education, with significant teaching, mentorship, and science outreach experience. My dream job is a joint position applying computational models to drug discovery and teaching biology and chemistry at a primarily undergraduate institution.
 
 ## I aim to graduate by Fall 2025 and will be looking for computational chemistry positions!
 
+
 ## Contact me
-{{< cards >}}
-  {{< card link="mailto:alex.payne@choderalab.org" 
-  title="Email me at sukrit.singh[at]choderalab.org" 
-  icon="mail"
-  >}}
-  {{< card link="https://bsky.app/profile/sukritsingh92.bsky.social" 
-  title="Follow me on BlueSky @sukritsingh92.bsky.social"
-  icon="device-mobile"
-  >}}
-  {{< card link="https://drive.google.com/file/d/0B22FZczSEqmuWjByenV3TlR6eGM/view?usp=drive_link&resourcekey=0-iKMmxoYZcUAOccXgSOQn1g" 
-  title="My Full CV"
-  icon="academic-cap"
-  >}}
-  {{< card link="https://www.github.com/sukritsingh/" 
-  title="Check out my code on Github @sukritsingh"
-  icon="github"
-  >}}
-  {{< card link="https://scholar.google.com/citations?user=1IHMXzcAAAAJ&hl" 
-  title="Check out my publications on Google Scholar"
-  icon="book-open"
-  >}}
-  {{< card link="https://www.linkedin.com/in/sukrit-singh-9797587b/" 
-  title="Connect with me on LinkedIn"
-  icon="linkedin"
-  >}}
-  {{< card link="https://www.discord.gg/foldingathome" 
-  title="Chat with me on the Folding@home discord!"
-  icon="discord"
-  >}}
-  {{< card link="https://x.com/sukritsingh92" 
-  title="Follow me on twitter/X @sukritsingh92"
-  icon="x-twitter"
-  >}}
-{{< /cards >}}
-
-
-## Current roles:
-- I am currently a [__NCI Early Stage K99/R00 Postdoctoral Research Fellow__](https://reporter.nih.gov/search/0mHoWT0-FkizAAPVRMhuqw/project-details/10794822) and [__Damon Runyon Quantitative Biology Fellow__](https://www.damonrunyon.org/news/entries/6716/) at [Memorial Sloan-Kettering Cancer Center](https://www.mskcc.org/) jointly mentored by [John Chodera](https://choderalab.org) and [Markus Seeliger](https://you.stonybrook.edu/mseeligerlab/). 
-- I am a maintainer of the [MDTraj](http://mdtraj.readthedocs.io) python package, which is a widely used tool for analyzing molecular dynamics simulations.
-- I help with science communication efforts as a team member of the [Folding@home](https://foldingathome.org) project. This includes
-helping out with the twitter page as well as the [twitch stream](https://twitch.tv/foldingathomedotorg).
-
-## Education and Previous Roles: 
-- PhD in [__Computational and Molecular Biophysics__](https://dbbs.wustl.edu/programs/biochemistry-biophysics-structural-biology/) with [Greg Bowman](https://bowmanlab.seas.upenn.edu/)
-    - Supported by a Millipore-Sigma Fellowship, my thesis work developed approaches to parse protein allostery (how distant amino-acids impact one another) from MD simulations to explain biological mechanism 
-    at [Washington University in St. Louis](https://biochem.wustl.edu/) ([Greg is now at UPenn](https://bowmanlab.seas.upenn.edu/)). 
-    - Through Greg's lab, I was also a memeber of the [Folding@home](https://foldingathome.org) project, particularly through the [COVID Moonshot](https://covid.postera.ai/covid) and [exascale computing](https://www.nature.com/articles/s41557-021-00707-0) effort.
-
-- Bachelor's (BA) double majoring in __Chemistry and Biology__ 
-from [Washington University in St. Louis](https://wustl.edu/) 
-    - I trained jointly between [Jay Ponder](https://dasher.wustl.edu/) and 
-    [Garland Marshall](https://biochem.wustl.edu/faculty/marshall) working on integrated 
-    approaches to design peptidomimetics and synthesize better spectroscopic spin labels
-    - I briefly trained in [Joe Dougherty's group](https://sites.wustl.edu/doughertylab/) as a freshman and sophomore
+{{< icon "linkedin" >}} [LinkedIn](https://www.linkedin.com/in/alexander-matthew-payne-0899a0a1/) |
+{{< icon "download" >}} [CV](/cv/202301_CV.pdf) |
+{{< icon "github" >}} [GitHub](https://www.github.com/apayne97/) |
+{{< icon "graduation-cap" >}} [Scholar](https://scholar.google.com/citations?user=uXUBXMAAAAAJ&hl=en) |
+{{< icon "orcid" >}} [ORCID](http://orcid.org/0000-0003-0947-0191)
