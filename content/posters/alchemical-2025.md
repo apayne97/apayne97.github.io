@@ -14,4 +14,4 @@ showReadingTime: false
 - **Conference**: [Alchemistry Workshop 2025]({{< ref "/conferences/alchemistry-2025" >}})
 
 ## Resources
-- [Google Drive Folder with Poster](https://drive.google.com/drive/folders/1MseuhANUXIdaoWrNij-uScKZpb5Ge6BD?usp=sharing)
+- [Google Drive Poster PDF](https://drive.google.com/file/d/1JzdGLbAAHlqLULX0MJwlQbCldJnYA_c4/view?usp=sharing)
